@@ -1,2 +1,2 @@
-# api_starter
+# API Starter
 Go API Starter
